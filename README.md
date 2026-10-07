@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about designing reliable embedded systems, with a strong interest in PCB design and firmware development for modern microcontrollers.
+I'm passionate about designing reliable embedded systems, with a strong interest in PCB design.
 
 - 🎓 Engineering Student
 - 📐 PCB Design
